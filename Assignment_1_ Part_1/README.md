@@ -1,0 +1,4 @@
+Part 1: Blackbox deep learning - 
+Write colab for illustrating use of SOTA (state of the art)  model architectures of fast ai - using cnn_learner for image classification, unet_learner for segmentation, text_classifier_learner for sentiment analysis, tabular_learner for decisiontree, collab_learner for ranking, - Try to do something different from what is done in the fastai colab (like classify dogs instead of cats, pick some other data set for segmentation etc.,.) - Try to do good inferencing examples as well.
+
+Hints : look into Fast AI colab - https://github.com/fastai/fastbook/blob/master/01_intro.ipynb (Links to an external site.)  - to run this, the first cell of colab one execution gives a link to accounts.google.com and stops execution . you click on it copy the string and paste it in the text field. then it will proceed.
