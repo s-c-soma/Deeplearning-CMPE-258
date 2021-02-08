@@ -2,10 +2,10 @@
 
 This folder contains all the assignments of part 1 and part 2 [codelab]
 
-## Extra Credit Assignments-3:
+## Part-1:
 1. Assignment1_part1_fastai.ipynb
 
-## Extra Credit Assignments-4:
+## Part-2:
 1. Assignment1_part2_Codelab_IntroTask.ipynb
 2. Assignment1_part2_Codelab_keras_01_mnist.ipynb
 3. Assignment1_part2_Codelab_keras_02_mnist_dense.ipynb
