@@ -12,4 +12,5 @@ This folder contains all the assignments of part 1 and part 2 [codelab]
 4. Assignment1_part2_Codelab_keras_03_mnist_dense_lrdecay_dropout.ipynb
 5. Assignment1_part2_Codelab_keras_04_mnist_convolutional.ipynb
 6. Assignment1_part2_Codelab_keras_05_mnist_batch_norm.ipynb
+7. Assignment1_part2_CloudDeploymentandTraining.docx/Assignment1_part2_CloudDeploymentandTraining.pdf [Cloud training screenshots]
 
