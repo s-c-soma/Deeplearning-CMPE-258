@@ -1,3 +1,22 @@
+
+# Assignment:
+
+This folder contains all the assignment details of part 2.1 and part2.2 here
+##
+1. Presentation Recording
+2. Presentation slide 
+## Part-1:
+1. Assignment2_Part1_Image.pdf [Cloud training screenshots]
+2. Assignment2_Part1_Text.pdf [Cloud training screenshots]
+3. Assignment2_Part1_Video.pdf [Cloud training screenshots]
+4. Assignment2_Part1_CustomTraining.pdf [Cloud training screenshots]
+5. Assignment2_Part1_Tabular.pdf [Cloud training screenshots]
+
+## Part-2:
+1. Assignment2_part2.pdf [Cloud training screenshots]
+
+
+############################################################################################################
 You will demonstrate simple hello world examples end 2 end with automl tools on google cloud platform -
 
 Note: this assignment has 20 points - not the regular 10 points.
