@@ -2,7 +2,7 @@
 # Assignment:
 
 This folder contains all the assignment details of part 2.1 and part2.2 here
-##
+## Presentation
 1. Presentation Recording
 2. Presentation slide 
 ## Part-1:
@@ -11,7 +11,6 @@ This folder contains all the assignment details of part 2.1 and part2.2 here
 3. Assignment2_Part1_Video.pdf [Cloud training screenshots]
 4. Assignment2_Part1_CustomTraining.pdf [Cloud training screenshots]
 5. Assignment2_Part1_Tabular.pdf [Cloud training screenshots]
-
 ## Part-2:
 1. Assignment2_part2.pdf [Cloud training screenshots]
 
