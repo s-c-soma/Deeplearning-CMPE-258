@@ -16,91 +16,35 @@ This folder contains all the assignment details of part 2.1 and part2.2 here
 
 
 ############################################################################################################
-You will demonstrate simple hello world examples end 2 end with automl tools on google cloud platform -
+The homework has 3 parts.
 
-Note: this assignment has 20 points - not the regular 10 points.
+Generate data : 3 dimensions input and 2 dimensions output (unlike 2 dimensions input and 1 dimension output i provided in the slides) similar to how i explained in slides. (pick your own nonlinear equation to model it - similar to the example i had in the colab)
 
- 
+The output is 2 neurons - not one like in slide . each modelling one nonlinear function in 3 input dimension variables.
 
-this assignment has two parts
+- plot the output post training as well as the real data  using tsne (given the input is 3 dimension and output is 1 dimension for each output neuron - we need to translate this to 2 or 3 dimensions using tsne plotting - sample colab https://colab.sandbox.google.com/drive/1IlzvNrWXR-2npz4PaLORHfVx3TmW41B (Links to an external site.)3   other examples https://colab.sandbox.google.com/drive/1uLNdjmJMcriJdcROBWNGkQR05jHHdeq9?usp=sharing#scrollTo=A7PwThT1q-Z (Links to an external site.)s. or https://thedatafrog.com/en/articles/visualizing-datasets/ (Links to an external site.)   - a lot of articles on how to visualize 4d data on 2d or 3d space (3d space is extra points - interactive 3d object - even more extra points. -- sample 3d wireframe  https://colab.sandbox.google.com/gist/vivek081166/7180433ad5a8cc56b28b4fe63736976a/wireframe.ipynb#scrollTo=XM3eDpwhTO17 (Links to an external site.)   https://medium.com/in-pursuit-of-artificial-intelligence/data-visualization-in-python-9aa1d9c2baec (Links to an external site.)   ))  https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html
 
- 
+for each of the below 7 parts you have to plot the target data and predicted data plots post training.
 
-Link to the samples you will replicate (with your optional but important creative modifications - like either use different data sets or building your own data set by labelling and collecting from images.google.com or something else that you think you can do (or may be even taking pictures using ur mobile phone cameras), different target labels, different tuning configurations s to automl etc.,. - i challenge the students to take on interesting twists to these hello world examples  ) and produce results
+part a) Using pure Numpy to build a 3 layer neural network (with relu nonlinearity - this is different from the  2 layer i have provided in the colab in slide deck) to train on data - pick appropriate number of neurons in each layer and just use relu for non linearity.
 
- 
+part b.1) use pure pytorch tensor datastructure to build the same - do not use the auto differentiation yet. (check my pointers in the list of pytorch pointers)
 
-Part 1:
+ b.2) use the pure pytorch tensor data structure to build the same but with auto differentiation primitives
 
- 
-
-https://cloud.google.com/ai-platform-unified/docs/tutorials (Links to an external site.)
+b.3 ) use the pure pytorch linear modules etc.,. - high level primitives and build neural network
 
  
 
-Five examples - one in each of below categories. 
+part c.1) use pure tensorflow tensor datastructure to build the same - do not use the auto differentiation yet.
 
-Hello AI Platform (Unified) 
-Hello image data
-Use an image dataset to train an AutoML model.
+ c.2) use the pure tensorflow tensor data structure to build the same but with auto differentiation primitives
 
-Hello text data
-Use a text dataset to train an AutoML model.
-
-Hello video data
-Use a video dataset to train an AutoML model.
-
-Hello custom training
-Learn how to bring your own code to AI Platform, by using a sample app to train an image recognition model.
-
-Hello structured data
-Use a structured dataset to train an AutoML model.
-
-Note that you should choose very limited compute and are not expected to have state of art models - but just a model which shows loss is going in downward direction.
-There are lot of possibilities
-
-https://cloud.google.com/ai-platform-unified/docs/start/automl-model-types (Links to an external site.)
+c.3 ) use the pure tensorflow keras  linear modules etc.,. - high level primitives and build neural network - make sure you use the Model subclassing (not the functional api or sequential api) as shown in the slides of the class. 
 
  
 
-and you can pick and chose
-
-Part 2:
-
-Execute automl vision and timeseries forcasting models
-
-a) https://codelabs.developers.google.com/codelabs/automl-vision-edge-in-mlkit#0 (Links to an external site.)
+Please submit all the colabs (7 of them) in a single directory with proper readme.md file explaining brief details of the same.
 
  
-
-end2end deployment of a vision model using automl to mobile device
-
-b) https://codelabs.developers.google.com/codelabs/time-series-forecasting-with-cloud-ai-platform#0 (Links to an external site.)
-
- 
-
-Deliverables :
-
-a) All artifacts for the above assignments checked in github in appropriate directory structure
-
- 
-
-b) 10 minute video and presentation/demo for each part (either live or with screenshots of your setup) explaining what you did for each of the parts and showing final results.
-
- 
-
-Note: if you want to do automl in another platform like H2O or any other place, that is also fine. but it should be complete. 
-
- 
-
-I would like to have students challenge themselves by implementing more and more complicated and advanced features of google automl platform.
-
- 
-
-You are not limited to just these above assignment. You can show case more automl models for more extra points if you are interested in to score extra points.
-
- 
-
-Put a proper read.me in github to ensure you highlight what you did above and beyond what i asked for so we can score for extra points.
-
  
