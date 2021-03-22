@@ -1,18 +1,18 @@
 
 # Assignment:
 
-This folder contains all the assignment details of part 2.1 and part2.2 here
-## Presentation
-1. Presentation Recording
-2. Presentation slide 
-## Part-1:
-1. Assignment2_Part1_Image.pdf [Cloud training screenshots]
-2. Assignment2_Part1_Text.pdf [Cloud training screenshots]
-3. Assignment2_Part1_Video.pdf [Cloud training screenshots]
-4. Assignment2_Part1_CustomTraining.pdf [Cloud training screenshots]
-5. Assignment2_Part1_Tabular.pdf [Cloud training screenshots]
-## Part-2:
-1. Assignment2_part2.pdf [Cloud training screenshots]
+This folder contains all the 7 assignments of part a, b, and c
+
+## Part-a:
+1. Assignment_3_Part_A_Numpy
+## Part-b:
+2. Assignment_3_Part_B.1_Pytorch(without auto differentiation)
+3. Assignment_3_Part_B.2_Pytorch(with auto differentiation)
+4. Assignment_3_Part_B.3_Pytorch(with linear modules)
+## Part-c:
+5. Assignment_3_Part_C.1_Tensorflow(without auto differentiation)
+6. Assignment_3_Part_C.2_Tensorflow(with auto differentiation)
+7. Assignment_3_Part_C.3_Tensorflow(keras  linear modules)
 
 
 ############################################################################################################
