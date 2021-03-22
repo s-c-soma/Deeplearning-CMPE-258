@@ -1,7 +1,7 @@
 
 # Assignment:
 
-This folder contains all the 7 assignments of part a, b, and c
+This folder contains all the 7 assignments of part a, b, and c including the extra credit 3D plot
 
 ## Part-a:
 1. Assignment_3_Part_A_Numpy
@@ -13,6 +13,8 @@ This folder contains all the 7 assignments of part a, b, and c
 5. Assignment_3_Part_C.1_Tensorflow(without auto differentiation)
 6. Assignment_3_Part_C.2_Tensorflow(with auto differentiation)
 7. Assignment_3_Part_C.3_Tensorflow(keras  linear modules)
+## Extra Credit:
+t-SNE **3D Plot** is added for Training vs. Predicted data at the bottom of all the colabs
 
 
 ############################################################################################################
