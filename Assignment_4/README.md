@@ -5,13 +5,11 @@
 This folder contains all the 7 assignments of part a, b, and c including the extra credit 3D plot
 
 ## Part-a:
-1. Assignment_3_Part_A_Numpy
+1. Assignment_4_Part_1.ipynb
 ## Part-b:
-2. Assignment_3_Part_B.1_Pytorch(without auto differentiation)
-3. Assignment_3_Part_B.2_Pytorch(with auto differentiation)
-4. Assignment_3_Part_B.3_Pytorch(with linear modules)
+2. Assignment_4_Part_2_Keras.ipynb
 ## Extra Credit:
-
+3. Classifier Model Achieved **99% Accuracy**
 
 
 ############################################################################################################
