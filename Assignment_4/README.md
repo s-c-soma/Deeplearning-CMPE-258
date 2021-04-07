@@ -2,7 +2,7 @@
 
 # Assignment 4 - MNIST classifier with various training knobs with numpy and keras
 
-This folder contains all the 7 assignments of part a, b, and c including the extra credit 3D plot
+This folder contains part-1, part-2 of assignment-4 and I have achieved 99% accuracy (extra credit)
 
 ## Part-a:
 1. Assignment_4_Part_1.ipynb
