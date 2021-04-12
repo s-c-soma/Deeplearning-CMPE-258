@@ -5,8 +5,8 @@ This folder contains-
 1. Pdf containing all links: **HW_ShortStory_AlltheLinks.pdf**
 2. Main Survey Paper: **Language (Technology) is Power: A Critical Survey of “Bias” in NLP.pdf**
    - Main Survey Paper: **https://arxiv.org/pdf/2005.14050.pdf** 
-3. Presentation: **HW_ShortStory_Presentation_ASurveyOnSemi-SupervisedLearning.pptx**
-   - Slideshare Link: **https://www.slideshare.net/subarna89/presentation-a-surveyonsemisupervisedlearning/subarna89/presentation-a-surveyonsemisupervisedlearning**
+3. Presentation: **HW_ShortStory_Presentation_ASurveyOf_Bias_in_NLP.pptx**
+   - Slideshare Link: **https://www.slideshare.net/subarna89/a-survey-of-bias-in-natural-language-processing-systems**
 4. Video Presentation : **HW_ShortStory_VideoPresentation_ASurveyOnSemi-SupervisedLearning.mp4**
 5. Medium Article: **https://scsoma.medium.com/a-survey-on-the-20-years-journey-of-semi-supervised-learning-4b88ad5ddd4b** 
 6. Project Proposal: **HW_ShortStory_ProjectProposal_ASurveyOnSemi-SupervisedLearning.pdf**
