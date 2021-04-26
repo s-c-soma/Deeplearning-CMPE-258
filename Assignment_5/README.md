@@ -3,12 +3,15 @@
 
 # Assignment 5 - Full end2end MLOps compliant tensorflow pipeline using tfx and include EDA etc,.
 
-This folder contains part-1, part-2 of assignment-4 and I have achieved 99% accuracy (extra credit)
+This folder contains all the 4 assignments(extra credit)
 
 ## Part-a:
-1. Assignment_4_Part_1.ipynb
-## Part-b:
-2. Assignment_4_Part_2_Keras.ipynb
+1. Assignment_5a_Tensorflow_DNN_End2End_Model_ChicagoTaxi.ipynb
+2. Assignment_5b_TFX_End2End_Pipeline_ChicagoTaxi.ipynb
+3. Assignment_5c_Pytorch_End2End_Model_ChicagoTaxi.ipynb
+4. Assignment_5d_XGBoost_End2End_ChicagoTaxi.ipynb
+
+
 ## Extra Credit:
 3. 
 
