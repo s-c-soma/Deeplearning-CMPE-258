@@ -5,7 +5,7 @@
 
 This folder contains all the 4 assignments(extra credit)
 
-## Part-a:
+## Parts:
 1. Assignment_5a_Tensorflow_DNN_End2End_Model_ChicagoTaxi.ipynb
 2. Assignment_5b_TFX_End2End_Pipeline_ChicagoTaxi.ipynb
 3. Assignment_5c_Pytorch_End2End_Model_ChicagoTaxi.ipynb
@@ -13,7 +13,7 @@ This folder contains all the 4 assignments(extra credit)
 
 
 ## Extra Credit:
-3. 
+3. Assignment_5c_Pytorch_End2End_Model_ChicagoTaxi.ipynb
 
 
 ############################################################################################################
