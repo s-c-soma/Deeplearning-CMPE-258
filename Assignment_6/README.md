@@ -4,8 +4,8 @@ This folder contains all the 3 assignments
 
 ## Parts:
 1. Assignment_6a_Autograd_Framework.ipynb
-2. Assignment_6a_Autograd_Framework.ipynb
-3. Assignment_6a_Autograd_Framework.ipynb
+2. Assignment_6b.1_CNN_based_Image_Classifier_Keras.ipynb
+3. Assignment_6b.2_CNN_based_Image_Classifier_Pytorch.ipynb
 
 
 
