@@ -1,3 +1,21 @@
+# Assignment 6 - autograd in python and CNN applications and practice (keras, pytorch and pytorch lightning implementations needed)
+
+This folder contains all the 3 assignments
+
+## Parts:
+1. Assignment_6a_Autograd_Framework.ipynb
+2. Assignment_6a_Autograd_Framework.ipynb
+3. Assignment_6a_Autograd_Framework.ipynb
+
+
+
+## Extra Credit:
+
+
+
+############################################################################################################
+
+
 Note that this assignment is 20 points (additional 30 points towards extra credit if you do all of the below including optional assignments - extra credit used for catchup on midterm and quiz).
 
  
