@@ -7,7 +7,7 @@ This folder contains-
 2. Presentation: **HW_ShortStory_Presentation_ASurveyOf_Bias_in_NLP.pptx**
    - Slideshare Link: **https://www.slideshare.net/subarna89/a-survey-of-bias-in-natural-language-processing-systems**
 3. Video Presentation : **HW_ShortStory_VideoPresentation_ASurveyOf_Bias_in_NLP.mp4**
-   - Shared Drive Link: **https://drive.google.com/drive/folders/10QoO9MeHO75CNTdPPWBYp-DROAZ707Kd?usp=sharing**
+   - Shared Drive Link: **https://drive.google.com/file/d/1K062JScrj8KeZIeFiQJ8o3RagYcJmYbv/view?usp=sharing**
 5. Medium Article: **https://scsoma.medium.com/a-survey-of-bias-in-natural-language-processing-systems-4745a3f81f9d** 
 
 
