@@ -1,7 +1,14 @@
-EXTRA points assignment - to catchup bad scores in quiz and midterm 
+
+This folder contains all the 2 assignments
+
+## Parts:
+1. folder assignment_7_part_a: end2end application using tensorflow.js
+2. folder assignment_7_part_b: Assignment_7b.ipynb
+
 
  
-
+################################################################################################################
+EXTRA points assignment - to catchup bad scores in quiz and midterm 
 submit all artifacts in github directory under Assignment 7. Please write up proper read.me file explaining the artifacts
 
  
