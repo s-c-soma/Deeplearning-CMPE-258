@@ -5,7 +5,7 @@ This folder contains all the 2 assignments
 1. **From assignment 7**: folder assignment_7_part_a: end2end application using tensorflow.js
 2. **From assignment 7**: folder assignment_7_part_b: Assignment_7b.ipynb
 
-** Please check assignment folder 3,4 and, 5 for previously done extra credits.
+** Please check assignment **folder 3,4 and, 5** for previously done extra credits.
 
 4. **From assignment 3**: t-SNE **3D Plot** is added for Training vs. Predicted data at the bottom of all the colabs
 5. **From assignment 4**: Classifier Model Achieved 99% Accuracy
